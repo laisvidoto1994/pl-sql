@@ -1,0 +1,2 @@
+EXECUTE PACKAGE_VENDEDOR.PROC_ALTERAR_PEDIDO (100006,'pedido feito pelo cliente');
+

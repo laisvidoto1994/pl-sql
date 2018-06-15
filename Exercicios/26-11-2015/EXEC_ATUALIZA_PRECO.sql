@@ -1,0 +1,3 @@
+EXECUTE PROC_ATUALIZA_PRECO(100007);
+
+--SELECT * FROM tabela_pedido;
